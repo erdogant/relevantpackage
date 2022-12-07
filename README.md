@@ -10,8 +10,9 @@
 [![Issues](https://img.shields.io/github/issues/erdogant/relevantpackage.svg)](https://github.com/erdogant/relevantpackage/issues)
 [![Project Status](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 
-### Installation
-* Install relevantpackagefrom PyPI.
+### Install relevantpackagefrom PyPI.
+```bash
+pip install relevantpackage
 
 #### Example
 ```python
