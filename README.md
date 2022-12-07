@@ -11,10 +11,12 @@
 [![Project Status](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 
 ### Install relevantpackagefrom PyPI.
+
 ```bash
 pip install relevantpackage
 
 #### Example
+
 ```python
 # Import library
 from relevantpackage import Relevantpackage
