@@ -3,7 +3,7 @@ from relevantpackage.relevantpackage import Relevantpackage
 
 __author__ = 'E.Taskesen'
 __email__ = 'name@gmail.com'
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 
 # module level doc-string
 __doc__ = """
